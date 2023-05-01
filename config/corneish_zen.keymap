@@ -24,11 +24,13 @@
         numpad {
             bindings = <&mo 3>;
             key-positions = <15 16>;
+            timeout-ms = 32;
         };
 
         system {
             bindings = <&mo 1>;
             key-positions = <19 20>;
+            timeout-ms = 32;
         };
     };
 
